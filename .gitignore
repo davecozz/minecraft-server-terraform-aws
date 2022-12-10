@@ -1,0 +1,6 @@
+.terraform.lock.hcl
+.terraform/
+
+local/
+
+server-icon.png
