@@ -1,0 +1,17 @@
+{
+    "namecheap_user_name": "",
+    "namecheap_api_key": "",
+    "namecheap_domain": "",
+    "namecheap_hostname": "",
+    "aws_region": "",
+    "aws_vpc_id": "",
+    "aws_availability_zone": "",
+    "aws_subnet_id": "",
+    "aws_private_ip": "",
+    "aws_instance_type": "",
+    "aws_instance_arch": "",
+    "mumble_docker_image": "",
+    "minecraft_docker_image": "",
+    "minecraft_java_xms": "",
+    "minecraft_java_xmx": ""
+}
